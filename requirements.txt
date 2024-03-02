@@ -1,0 +1,3 @@
+azure-functions
+playwright
+azure-storage-blob
